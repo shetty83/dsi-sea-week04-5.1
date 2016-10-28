@@ -15,4 +15,4 @@ This is a lab about clue. Solve the murder. Be the hero.
 - Finish all cells in the provided iPython notebook.
 
 #### Deliverable
-- The ipython notebook from this lab. Show your work. A correct answer that comes out of nowhere is a guess.
+- The ipython notebook from this lab.
